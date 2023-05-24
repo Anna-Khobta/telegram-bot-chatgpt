@@ -1,0 +1,8 @@
+.idea
+config/production.json
+/node_modules
+/.pnp
+.pnp.js
+/dist
+.env
+/config
